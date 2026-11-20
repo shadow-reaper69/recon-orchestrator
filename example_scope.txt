@@ -1,0 +1,7 @@
+# Authorized Target Scope File
+# Lines starting with # are comments.
+# Put one domain, IP address, or CIDR block per line.
+
+example.com
+lab.internal
+192.168.1.0/24
